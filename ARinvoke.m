@@ -5,7 +5,7 @@
 ///
 /// \date	17 August 2015	
 /// \author    Sriram Emarose
-/// \copyright Sriram Emarose 
+/// 
 /// \ contact: sriram.emarose@gmail.com
 //=============================================================================
 
